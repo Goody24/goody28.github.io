@@ -1,0 +1,12 @@
+/* my project css */
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: yellow;
+}
+img{
+    border: 12px solid red;
+}
+h1{
+    border: 5px solid red;
+}
